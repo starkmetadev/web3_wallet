@@ -1,5 +1,1 @@
-# Adrestus-Transaction-Explorer
-
-Adrestus Transaction Explorer
-
-React, Tailwind CSS
+# Web3 Wallet based on BSC.
