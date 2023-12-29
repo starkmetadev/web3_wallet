@@ -1,1 +1,1 @@
-# Web3 Wallet based on BSC.
+# Stark Wallet based on BSC.
